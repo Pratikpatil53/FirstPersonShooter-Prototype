@@ -19,3 +19,6 @@ This is a personal learning project!
 Feel free to reach out or follow progress:
 
 Gmail: pratikpatil8105326@gmail.com
+
+linkedin:
+www.linkedin.com/in/pratik-patil-3922522a0
